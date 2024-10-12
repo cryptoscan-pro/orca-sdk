@@ -5,6 +5,17 @@
   "version": "1.0.1",
   "module": "dist/esm/index.js",
   "types": "dist/types/index.d.ts",
+  "keywords": [
+    "cryptoscan",
+    "orca",
+    "sdk",
+    "solana",
+    "blockchain",
+    "api",
+    "cryptocurrency",
+    "wallet",
+    "swap"
+  ],
   "scripts": {
     "test": "vitest",
     "build:watch": "tsc -w -p tsconfig.esm.json",
