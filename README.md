@@ -1,6 +1,6 @@
 # @cryptoscan/orca-sdk
 
-The fastest and easiest way to trade on Orca
+The fastest and easiest way to trade on Orca.
 
 - Get rate/price of coin in USD/Solana
 - Buy/Sell coin
